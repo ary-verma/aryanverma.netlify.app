@@ -33,6 +33,20 @@
     text-shadow: black 6px 6px 9px;
 }
 
+.insta-link{
+    height: 100px;
+    width: 100px;
+    align-items: center;
+    box-shadow: #000000f7 7px 7px 14px 3px;
+}
+
+.linkedin-link{
+    height: 100px;
+    width: 100px;
+    align-items: center;
+    box-shadow: #000000f7 7px 7px 14px 3px;
+}
+
 body{
     margin: 0%;
 }
