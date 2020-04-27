@@ -9,9 +9,13 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-image: url(file:///C:/Users/arvee/ProfileA/grad2.gif);
+    background-image:url('file:///C:/Users/arvee/ProfileA/grad2.gif');
+    background-size:100%;
     background-repeat: no-repeat;
+    background-attachment: fixed;
     background-size: cover;
+    height:100%;
+    width:100%;
 }
 
 .profile {
