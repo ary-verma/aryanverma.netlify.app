@@ -34,15 +34,32 @@
 }
 
 .insta-link{
-    height: 100px;
-    width: 100px;
+    height: 30px;
+    width: 30px;
     align-items: center;
 }
 
 .linkedin-link{
-    height: 100px;
-    width: 100px;
+    height: 30px;
+    width: 30px;
     align-items: center;
+}
+
+.row{
+    display: flex;
+}
+
+.column {
+    flex: 33.33%;
+    padding: 5px;
+}
+
+.site-redirect1{
+    
+}
+
+.site-redirect2{
+
 }
 
 body{
