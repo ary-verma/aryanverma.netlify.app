@@ -1,5 +1,4 @@
 .site-header {
-    background-color: #ffffffe6;
     color: #000000;
     height: 100vh;
     font-family: 'Mandali', sans-serif;
@@ -10,6 +9,9 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    background-image: url(file:///C:/Users/arvee/ProfileA/grad2.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .profile {
@@ -36,20 +38,25 @@
     height: 30px;
     width: 30px;
     align-items: center;
+    justify-content: bottom;
 }
 
 .linkedin-link{
     height: 30px;
     width: 30px;
     align-items: center;
+    justify-content: bottom;
 }
 
-.row{
+.row {
     display: flex;
+    justify-content: top;
+    align-items: center;
+    justify-content: center;
 }
 
 .column {
-    flex: 33.33%;
+    flex: 0;
     padding: 5px;
 }
 
@@ -63,4 +70,5 @@
 
 body{
     margin: 0%;
+    background: #ffffff url ('../img/wide1.jpg')
 }
