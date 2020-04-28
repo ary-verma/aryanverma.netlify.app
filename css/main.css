@@ -20,7 +20,7 @@
 
 .profile {
     border-radius: 50%;
-    height: 190px;
+    height: 200px;
     width: 200px;
     align-items: center;
 }
@@ -53,6 +53,13 @@
     justify-content: bottom;
 }
 
+.github-link{
+    height: 30px;
+    width: 30px;
+    align-items: center;
+    justify-content: bottom;
+}
+
 .row {
     display: flex;
     justify-content: center;
@@ -69,6 +76,10 @@
 }
 
 .site-redirect2{
+
+}
+
+.site-redirect3{
 
 }
 
