@@ -17,6 +17,9 @@
     
 }
 
+nav ul{
+    float: right;
+}
 
 .profile {
     border-radius: 50%;
